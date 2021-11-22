@@ -1,3 +1,5 @@
+[![Hailey's github stats](https://github-readme-stats.vercel.app/api?username=haileyjpark)](https://github.com/haileyjpark/github-readme-stats)
+
 - 👋 Hi, I’m @haileyjpark
 - 👀 I’m interested in EVERYTHING in the world
 - 🌱 I’m currently learning Python and Django
