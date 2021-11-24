@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @haileyjpark
 - 👀 I’m interested in EVERYTHING in the world
 - 🌱 I’m currently learning Python and Django
-- 📫 How to reach me : smileyhaileyp@gmail.com & @@xxhaileypark
+- 📫 How to reach me : smileyhaileyp@gmail.com & @xxhaileypark
 
 <!---
 haileyjpark/haileyjpark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
