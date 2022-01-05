@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @haileyjpark
 - 👀 I’m interested in EVERYTHING in the world
-- 🌱 I’m currently learning Python and Django
+- 🌱 I’m currently learning Python and Django DRF
 - 📫 How to reach me : smileyhaileyp@gmail.com 
 
 <!---
