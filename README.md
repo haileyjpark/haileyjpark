@@ -1,3 +1,7 @@
+<div align=center>
+    
+    
+    
 ## 👋 Hi, I’m Hailey Junghyun Park 
 
 
@@ -29,6 +33,9 @@
   <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
+</div>
+    
+</div>
 
 <!---
 haileyjpark/haileyjpark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
