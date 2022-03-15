@@ -2,7 +2,7 @@
     
     
     
-    <h2> 👋 Hi, I’m Hailey Junghyun Park </h2>
+## 👋 Hi, I’m Hailey Junghyun Park 
 
 
 
@@ -14,7 +14,7 @@
 
 
 
-<h2> Notion Page : [Hailey's Notion](https://chalk-princess-de0.notion.site/Hailey-Park-8d39cef5576545669477ed329b916f97) </h2>
+## Notion Page : [Hailey's Notion](https://chalk-princess-de0.notion.site/Hailey-Park-8d39cef5576545669477ed329b916f97) 
 
     
 
