@@ -1,6 +1,7 @@
-
+<div align="center"></div>
 [![Hailey's github stats](https://github-readme-stats.vercel.app/api?username=haileyjpark&show_icons=true&theme=highcontrast)](https://github.com/haileyjpark/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haileyjpark&layout=compact&theme=highcontrast)
+
 
 - 👋 Hi, I’m @haileyjpark 
 - 👀 I’m interested in EVERYTHING in the world 
@@ -11,8 +12,7 @@
 
 ## Notion Page : [Hailey's Notion](https://chalk-princess-de0.notion.site/Hailey-Park-8d39cef5576545669477ed329b916f97)
 
-
-
+    
 
 <div align=center><h1>📚 STACKS</h1></div>
 
