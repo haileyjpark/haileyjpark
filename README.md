@@ -1,5 +1,8 @@
 
-<center>[![Hailey's github stats](https://github-readme-stats.vercel.app/api?username=haileyjpark)](https://github.com/haileyjpark/github-readme-stats)</center>
+[![Hailey's github stats](https://github-readme-stats.vercel.app/api?username=haileyjpark)](https://github.com/haileyjpark/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haileyjpark&layout=compact&theme=tokyonight)
+
+출처: https://eunhee-programming.tistory.com/244 [코드짜는 문과녀]
 
 - 👋 Hi, I’m @haileyjpark 
 - 👀 I’m interested in EVERYTHING in the world 
