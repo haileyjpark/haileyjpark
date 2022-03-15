@@ -7,7 +7,9 @@
 
 
 
-## Notion Page : [Hailey's Notion](https://chalk-princess-de0.notion.site/Hailey-Park-8d39cef5576545669477ed329b916f97)
+<div align=center> 
+    ## Notion Page : [Hailey's Notion](https://chalk-princess-de0.notion.site/Hailey-Park-8d39cef5576545669477ed329b916f97)
+    </div>
 
 
 
