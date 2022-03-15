@@ -1,14 +1,14 @@
 
-[![Hailey's github stats](https://github-readme-stats.vercel.app/api?username=haileyjpark)](https://github.com/haileyjpark/github-readme-stats) {: .text-center }
+<center>[![Hailey's github stats](https://github-readme-stats.vercel.app/api?username=haileyjpark)](https://github.com/haileyjpark/github-readme-stats)</center>
 
-- 👋 Hi, I’m @haileyjpark {: .text-center }
-- 👀 I’m interested in EVERYTHING in the world {: .text-center }
-- 🌱 I’m currently learning Python and Django DRF {: .text-center }
-- 📫 How to reach me : smileyhaileyp@gmail.com {: .text-center }
+- 👋 Hi, I’m @haileyjpark 
+- 👀 I’m interested in EVERYTHING in the world 
+- 🌱 I’m currently learning Python and Django DRF 
+- 📫 How to reach me : smileyhaileyp@gmail.com 
 
 
 
-## Notion Page : [Hailey's Notion](https://chalk-princess-de0.notion.site/Hailey-Park-8d39cef5576545669477ed329b916f97){: .text-center }
+## Notion Page : [Hailey's Notion](https://chalk-princess-de0.notion.site/Hailey-Park-8d39cef5576545669477ed329b916f97)
 
 
 
@@ -19,8 +19,6 @@
     <img src="https://img.shields.io/badge/python-3776AB?style=fflat&logo=python&logoColor=white"> 
     <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white">
     <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"> 
-  </br>
-
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat&logo=amazonaws&logoColor=white"> 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> 
   </br>
