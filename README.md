@@ -2,7 +2,8 @@
     
     
     
-## 👋 Hi, I’m Hailey Junghyun Park 
+👋 Hi, I’m Hailey Junghyun Park 
+-------------------------------
 
 
 
