@@ -1,5 +1,9 @@
 👋 Hi, I’m @haileyjpark 
-[![Hailey's github stats](https://github-readme-stats.vercel.app/api?username=haileyjpark&show_icons=true&theme=highcontrast)](https://github.com/haileyjpark/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haileyjpark&layout=compact&theme=highcontrast)
+
+
+
+[![Hailey's github stats](https://github-readme-stats.vercel.app/api?username=haileyjpark&show_icons=true&theme=highcontrast)](https://github.com/haileyjpark/github-readme-stats) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haileyjpark&layout=compact&theme=highcontrast)
 
 
 
