@@ -1,4 +1,4 @@
-👋 Hi, I’m @haileyjpark 
+## 👋 Hi, I’m Hailey Junghyun Park 
 
 
 
