@@ -2,7 +2,7 @@
     
     
     
-## 👋 Hi, I’m Hailey Junghyun Park 
+    <h2> 👋 Hi, I’m Hailey Junghyun Park </h2>
 
 
 
@@ -14,11 +14,11 @@
 
 
 
-## Notion Page : [Hailey's Notion](https://chalk-princess-de0.notion.site/Hailey-Park-8d39cef5576545669477ed329b916f97)
+<h2> Notion Page : [Hailey's Notion](https://chalk-princess-de0.notion.site/Hailey-Park-8d39cef5576545669477ed329b916f97) </h2>
 
     
 
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=center><h2>📚 STACKS</h2></div>
 
 <div align=center> 
     <img src="https://img.shields.io/badge/python-3776AB?style=fflat&logo=python&logoColor=white"> 
