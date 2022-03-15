@@ -1,4 +1,4 @@
-<div align="center">
+
 [![Hailey's github stats](https://github-readme-stats.vercel.app/api?username=haileyjpark&show_icons=true&theme=highcontrast)](https://github.com/haileyjpark/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haileyjpark&layout=compact&theme=highcontrast)
 
@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Python and Django DRF 
 - 📫 How to reach me : smileyhaileyp@gmail.com 
 
-</div>
+
 
 ## Notion Page : [Hailey's Notion](https://chalk-princess-de0.notion.site/Hailey-Park-8d39cef5576545669477ed329b916f97)
 
