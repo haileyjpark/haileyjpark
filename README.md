@@ -9,9 +9,6 @@
 
 
 
-📫 How to reach me : smileyhaileyp@gmail.com 
-
-
 
 ## 🏠 [Hailey's Notion](https://chalk-princess-de0.notion.site/Hailey-Park-8d39cef5576545669477ed329b916f97) 
 
