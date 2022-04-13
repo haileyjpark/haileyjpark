@@ -11,7 +11,13 @@
 
 
 ## 🏠 [Hailey's Notion](https://chalk-princess-de0.notion.site/Hailey-Park-8d39cef5576545669477ed329b916f97) 
+    
+    
+    
 
+## ✏️ [Blog](https://velog.io/@xxhaileypark)
+
+    
     
 
 <div align=center><h2>📚 STACKS</h2></div>
