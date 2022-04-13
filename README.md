@@ -15,7 +15,7 @@
     
     
 
-## ✏️ [Blog](https://velog.io/@xxhaileypark)
+## ✏️ [Hailey's Blog](https://velog.io/@xxhaileypark)
 
     
     
