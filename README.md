@@ -20,7 +20,34 @@
     
     
 
+
 <div align=center><h2>📚 STACKS</h2></div>
+<div align="center">
+    <div style="display: flex; align-items: flex-start;">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="54" height="54" />
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="54" height="54" />
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="54" height="54" />
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="54" height="54" />
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="54" height="54" />
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="54" height="54" />
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="54" height="54" />
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="54" height="54" /></div>
+    
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" align="center"/>&nbsp;
+
+</div>
+
+<div align="center">
+  <sub>created by <a href="https://github.com/qkrdmstlr3/techstack-generator" target="_blank">qkrdmstlr3</a></sub>
+</div>
+
+<!--
+<a><img src="https://img.shields.io/badge/Javascript-F0DF3E?style=flat-square&logo=Javascript&logoColor=white"/></a>
+-->
+<!--
+<a><img src="https://img.shields.io/badge/Typescript-5175A7?style=flat-square&logo=Typescript&logoColor=white"/></a>
+-->    
+
 
 <div align=center> 
     <img src="https://img.shields.io/badge/python-3776AB?style=fflat&logo=python&logoColor=white"> 
