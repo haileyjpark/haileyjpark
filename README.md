@@ -24,16 +24,18 @@
 <div align=center><h2>📚 STACKS</h2></div>
 <div align="center">
     <div style="display: flex; align-items: flex-start;">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="54" height="54" />
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="54" height="54" />
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="54" height="54" />
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="54" height="54" />
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="54" height="54" />
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="54" height="54" />
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="54" height="54" />
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="54" height="54" />&nbsp;
+        <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">&nbsp;
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="54" height="54" />&nbsp;
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="54" height="54" />&nbsp;
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="54" height="54" />&nbsp;
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="54" height="54" />&nbsp;
+        <img src="https://img.shields.io/badge/HTML5-C5512C?style=flat-square&logo=HTML5&logoColor=white" align="center"/>&nbsp;
+        <img src="https://img.shields.io/badge/CSS-4371B2?style=flat-square&logo=CSS3&logoColor=white" align="center"/>&nbsp;
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="54" height="54" />&nbsp;
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="54" height="54" />&nbsp;
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="54" height="54" /></div>
     
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" align="center"/>&nbsp;
 
 </div>
 
