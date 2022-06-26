@@ -9,7 +9,7 @@
 
 
 
-## 🏠 [Hailey's Notion](https://chalk-princess-de0.notion.site/Hailey-Park-8d39cef5576545669477ed329b916f97) ✏️ [Hailey's Blog](https://velog.io/@xxhaileypark)
+## 🏠 [Hailey's Notion](https://chalk-princess-de0.notion.site/Hailey-Park-8d39cef5576545669477ed329b916f97) ✏️ [Hailey's Blog](https://haileyjpark.tistory.com/2)
     
     
    
