@@ -1,6 +1,6 @@
 <div align=center>
     
-👋 Hi, I’m Hailey Junghyun Park 
+## 👋 Hi, I’m Hailey Junghyun Park 
 ## 🏠 [Portpolio](https://haileypark.notion.site/Hailey-Park-8d39cef5576545669477ed329b916f97)                ✏️ [Blog (new)](https://haileyjpark.tistory.com) ✏️ [Blog (old)](https://velog.io/@xxhaileypark)
 
 
