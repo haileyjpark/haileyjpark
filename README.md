@@ -1,7 +1,15 @@
 <div align=center>
     
 ## 👋 Hi, I’m Hailey Junghyun Park 
-## 🏠 [Portpolio](https://haileypark.notion.site/Hailey-Park-8d39cef5576545669477ed329b916f97)                ✏️ [Blog (new)](https://haileyjpark.tistory.com) ✏️ [Blog (old)](https://velog.io/@xxhaileypark)
+### 🏠 [Portpolio](https://haileypark.notion.site/Hailey-Park-8d39cef5576545669477ed329b916f97)                ✏️ [Blog (new)](https://haileyjpark.tistory.com) ✏️ [Blog (old)](https://velog.io/@xxhaileypark)
+
+
+
+
+
+
+
+
 
 
 [![Hailey's github stats](https://github-readme-stats.vercel.app/api?username=haileyjpark&show_icons=true&theme=highcontrast)](https://github.com/haileyjpark/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haileyjpark&layout=compact&theme=highcontrast)
@@ -20,6 +28,7 @@
 <div align="center">
     <div style="display: flex; align-items: flex-start;">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" align="center"/>&nbsp;
         <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" align="center">&nbsp;
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
@@ -29,7 +38,6 @@
         <img src="https://img.shields.io/badge/CSS-4371B2?style=flat-square&logo=CSS3&logoColor=white" align="center"/>&nbsp;
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="54" height="54" align="center"/></div>
     
 
 </div>
